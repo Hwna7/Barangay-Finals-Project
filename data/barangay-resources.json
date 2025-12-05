@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Diclum, Manolo Fortich Bukidnon",
+    "lat": 8.3634,
+    "lng": 124.8486,
+    "population": 3100,
+    "health_centers": 1,
+    "schools": 1,
+    "evacuation_sites": 1
+  },
+  {
+    "name": "sto.Nino, Manolo Fortich Bukidnon",
+    "lat": 14.605,
+    "lng": 120.975,
+    "population": 3100,
+    "health_centers": 1,
+    "schools": 2,
+    "evacuation_sites": 1
+  },
+  {
+    "name": "Lingion, Manolo Fortich Bukidnon",
+    "lat": 14.580,
+    "lng": 121.000,
+    "population": 5000,
+    "health_centers": 1,
+    "schools": 1,
+    "evacuation_sites": 1
+  }
+]
